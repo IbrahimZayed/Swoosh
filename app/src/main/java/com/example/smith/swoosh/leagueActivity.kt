@@ -31,7 +31,7 @@ class leagueActivity : AppCompatActivity() {
         womensLeagueBtn.isChecked = false
         coedLeagueBtn.isChecked = false
 
-        selectedLeague = "mens"
+        selectedLeague = "Mens"
     }
 
     fun onWomensClicked(view: View) {
